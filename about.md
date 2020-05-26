@@ -4,43 +4,34 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Sou estudante de doutorado em engenharia civil, com ênfase em recursos hídricos (esperado para 2023),
+na [Universidade Federal de Pernambuco](https://www.ufpe.br/poscivil). Orientado pela profa.
+[Suzana Montenegro](http://lattes.cnpq.br/7831378362627809) e prof.
+[Christopher Souza](https://sites.google.com/site/souzacfufal/home). Sou mestre em Engenharia Civil e
+bacharel em Engenharia Ambiental e Sanitária.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Entusiasta em ciência de dados, possuo conhecimentos em estatística e programação e uso essa formação nas minhas
+pesquisas. Na tese, pesquiso sobre modelagem hidrossocial aplicando modelagem baseada em agentes. Também estudo
+a não estacionariedade em fenômenos hidrológicos a partir de uma abordagem Bayesiana. Oportunidades anteriores
+me forneceram conhecimentos em qualidade da água, incluindo análises de laboratório, e sistemas de drenagem na fonte,
+mais especificamente telhados verdes.
 
-<h2>Skills</h2>
+Além da pesquisa, tenho grande interesse em ensino. Nos últimos anos me envolvi em monitorias de Cálculo Integral e Diferencial e Laboratório
+de Química Ambiental, estágio a docência em Mecânica dos Fluidos e fui professor voluntário de matemática para alunos
+do ensino médio no [PAESPE](http://www.ufal.edu.br/unidadeacademica/ctec/extensao/paespe).
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+Atualmente trabalhando como desenvolvedor de software em projeto [UFAL](https://ufal.br/) / [APAC](http://www.apac.pe.gov.br/)
+na customização e operacionalização e um Sistema de Suporte à Decisão (SSD) de outorgas superficiais.
+
+Além disso tudo, sou nerd, gamer, viciado em série e curto um café. Sinta-se livre para me mandar uma mensagem
+sobre oportunidades ou qualquer assunto. Aliás, vamos conversar e tomar uma cerveja?
+
+<h2>Interesses de pesquisa</h2>
+
+<ul class="interests">
+	<li>Modelagem Ambiental, especialmente em hidrologia estatística</li>
+	<li>Ciência de dados</li>
+	<li>Estatística Bayesiana</li>
 </ul>
 
 <h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
